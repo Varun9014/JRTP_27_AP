@@ -6,6 +6,6 @@ class LatestChange
     }
     void main
     {
-      hi;
+      good morning;
     }
   }
