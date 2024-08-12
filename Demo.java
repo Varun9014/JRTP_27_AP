@@ -2,7 +2,10 @@ class Demo
 {
 	Public static void main(String[] args)
 	{
-		here 
-			here
-			here
+		// task 321
+		void m2()
+		{
+			//logic 
+		}
+	}
 }
